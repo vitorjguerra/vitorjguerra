@@ -4,6 +4,7 @@
 
 - 📍 Localização: Taquaritinga, São Paulo
 - 🎓 Formado em Direito pela UNIARA
+- 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UNINTER
 - 💻 Desenvolvedor Júnior com experiência em **JavaScript**, **CSS**, **HTML**, **Next.js** e **React.js**
 - 📚 Também sou professor de inglês e tenho certificações em, **Cambridge English B1**,**EF Londom Campus C2** e **Teaching Knowledge Test**
 - 🎮 Streamer na Twitch, onde jogo **World of Warcraft** e outros jogos
